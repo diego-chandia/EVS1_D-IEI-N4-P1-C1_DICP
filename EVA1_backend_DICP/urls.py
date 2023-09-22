@@ -20,6 +20,6 @@ from DICP_App1_v1 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('view1/', views.view1)
-    path('view2/', views.view2)
+    path('view1/', views.view1),
+    path('view2/', views.view2),
 ]

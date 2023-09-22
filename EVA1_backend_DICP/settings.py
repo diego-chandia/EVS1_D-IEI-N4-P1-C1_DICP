@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'DICP_App1_v1',
-    'DICP_App2_v1',
 ]
 
 MIDDLEWARE = [
